@@ -1,0 +1,40 @@
+body {
+  height: 100%;
+  width: 100%;
+  font-family: "Open Sans", sans-serif;
+}
+
+h2 {
+  font-size: 90px;
+}
+
+.button {
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  height: 30%;
+  width: auto;
+}
+
+.all {
+  text-align: center;
+}
+.pizza {
+  width: 50%;
+  height: 100%;
+  float: left;
+  background-color: #dc143c;
+}
+.burger {
+  width: 50%;
+  height: 100%;
+  float: left;
+  background-color: #ffd700;
+}
+
+.img {
+  width: auto;
+  height: 75%;
+}

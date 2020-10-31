@@ -1,0 +1,24 @@
+{
+  "name": "pizza-vs-burger",
+  "version": "1.0.0",
+  "description": "Pizza vs burger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://louisgallet95@github.com/louisgallet95/pizza-vs-burger.git"
+  },
+  "author": "Louis Gallet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/louisgallet95/pizza-vs-burger/issues"
+  },
+  "homepage": "https://github.com/louisgallet95/pizza-vs-burger#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}

@@ -8,16 +8,6 @@ var fs = require('fs'),
 var file = fs.readFileSync(filePath, 'utf8'); 
 console.log(css); 
 
-// function readFile(file) {
-// 	fs.readFile(file, 'uft8', function(err, data) {
-// 		if (err) {
-// 			return console.log(err)
-// 		}
-// 		console.log(data)
-// 	});
-// }
-// readFile('../website/js/countPizza.txt')
-
 const pizza = document.getElementById("countPizza");
 const burger = document.getElementById("countBurger");
 

@@ -1,6 +1,6 @@
 var nbPizza = 0;
 var nbBurger = 0;
-const test = 0;
+
 
 const pizza = document.getElementById("countPizza");
 const burger = document.getElementById("countBurger");

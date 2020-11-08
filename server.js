@@ -12,6 +12,10 @@ app.get("/error", (req, res) => {
   res.render("error/index.ejs");
 });
 
+app.get("/api", (req, res) => {
+  res.send(countPizza);
+});
+
 app.listen(port, () => {
   console.log(`Pizza VS Burger app listening at http://localhost:${port}`);
 });

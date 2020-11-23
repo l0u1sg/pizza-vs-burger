@@ -26,6 +26,7 @@
     "fs": "0.0.1-security",
     "fs-js": "^1.0.6",
     "jquery": "^3.5.1",
+    "mongoclient": "^1.0.3",
     "nodemon": "^2.0.6",
     "requirejs": "^2.3.6"
   }
